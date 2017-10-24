@@ -183,7 +183,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="684" y="-389.05547226386807"/>
+            <point key="canvasLocation" x="404" y="-389"/>
         </scene>
         <!--First-->
         <scene sceneID="mM2-OY-niS">
@@ -282,6 +282,7 @@
                         <viewLayoutGuide key="safeArea" id="waQ-fo-SF9"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="First" image="first" selectedImage="first" id="ry2-1b-omO"/>
+                    <navigationItem key="navigationItem" id="Kqt-hw-93c"/>
                     <connections>
                         <outlet property="labelNumber" destination="dfa-r2-aO2" id="FhT-m1-Bds"/>
                         <outlet property="labelStepper" destination="hi2-Mv-0dM" id="4p0-CZ-Yj6"/>
